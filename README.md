@@ -1,2 +1,1 @@
-# terraform-aws-api-gateway
-Terraform module which creates API Gateway on AWS 
+# terraform-aws-api-gateway-new-path
